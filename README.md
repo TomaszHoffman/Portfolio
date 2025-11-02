@@ -44,13 +44,13 @@ Automated tests for e-commerce application using TypeScript.
 Examples of API testing using Java and REST-assured.
 
 ## Education & Courses
-- Pedagogy | WSB Merito University Gdańsk | 10.2021 – 06.2025 (in progress)
+- Pedagogy | WSB Merito University Gdańsk | 10.2021 – 06.2025
 - Test Automation University - Java Programming
 - Selenium Java Course
 - Software Testing in Practice | Bootcamp
 
 ## Contact
-- Email: tomaszmhoffman@gmail.com
+
 - LinkedIn: [Tomasz Hoffman](https://www.linkedin.com/in/tomasz-hoffman-b70a0942/)
 - GitHub: [TomaszHoffman](https://github.com/TomaszHoffman)
 
